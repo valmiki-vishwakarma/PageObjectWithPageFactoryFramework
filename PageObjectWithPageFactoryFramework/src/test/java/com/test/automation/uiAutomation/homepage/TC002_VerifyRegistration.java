@@ -10,7 +10,7 @@ import com.test.automation.uiAutomation.testBase.TestBase;
 import com.test.automation.uiAutomation.uiActions.HomePage;
 /**
  * 
- * @author Bhanu Pratap
+ * @author VV
  *
  */
 public class TC002_VerifyRegistration extends TestBase {

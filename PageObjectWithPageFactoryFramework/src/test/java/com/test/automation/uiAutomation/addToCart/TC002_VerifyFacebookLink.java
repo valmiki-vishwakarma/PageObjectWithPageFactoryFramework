@@ -16,7 +16,7 @@ import com.test.automation.uiAutomation.uiActions.HomePage;
 import com.test.automation.uiAutomation.uiActions.ProductDetailsPage;
 /**
  * 
- * @author Bhanu Pratap
+ * @author VV
  *
  */
 public class TC002_VerifyFacebookLink extends TestBase {

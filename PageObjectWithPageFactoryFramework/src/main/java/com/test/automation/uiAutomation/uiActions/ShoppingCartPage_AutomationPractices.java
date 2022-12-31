@@ -13,7 +13,7 @@ import com.test.automation.uiAutomation.testBase.TestBase;
 
 /**
  * 
- * @author bsingh5
+ * @author VV
  *
  */
 public class ShoppingCartPage_AutomationPractices extends TestBase{
